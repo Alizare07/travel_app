@@ -32,9 +32,7 @@ const Navbar = () => {
           variant="btn_dark_green"
         />
       </div>
-   <div className="lg:hidden">
     <Menu/>
-   </div>
     </nav>
   );
 };
